@@ -1,0 +1,14 @@
+{
+"companyName": "TNFSH",
+"productName": "Touhou_haikyu",
+"dataUrl": "ceccfdde5ceb70a189675b20541fbee7.unityweb",
+"wasmCodeUrl": "bbef9866a3bceb49ece72a1ad727abcd.unityweb",
+"wasmFrameworkUrl": "79b861caf63b5cb6844832a91724cd75.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ccdaccdcf7d19ba484effdce164f9d7c.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
