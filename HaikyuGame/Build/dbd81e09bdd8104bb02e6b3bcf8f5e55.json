@@ -1,0 +1,14 @@
+{
+"companyName": "TNFSH",
+"productName": "Touhou_BulletHell",
+"dataUrl": "bfe0a21e8b3cdebc0190f4e2c08ad8d5.unityweb",
+"wasmCodeUrl": "0ad558bee8fc17690b2dd09dec2e9a61.unityweb",
+"wasmFrameworkUrl": "1cd5b1803a140c3caad55e8ac9172a88.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ccdaccdcf7d19ba484effdce164f9d7c.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
