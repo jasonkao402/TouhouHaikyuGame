@@ -1,0 +1,14 @@
+{
+"companyName": "TNFSH",
+"productName": "TouhouHaikyu_Beta_v1.7",
+"dataUrl": "b66e977d2cbd1c94d6fbebb1ac9cf52e.unityweb",
+"wasmCodeUrl": "62b0d68eb2454ec446a08b8926fbcc7c.unityweb",
+"wasmFrameworkUrl": "c4cc24c23f3ce0ed005939ee6dc27b1a.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ccdaccdcf7d19ba484effdce164f9d7c.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
