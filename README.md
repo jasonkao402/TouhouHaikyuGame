@@ -19,10 +19,10 @@ https://jasonkao402.github.io/TouhouHaikyuGame/HaikyuGame/
 
 ### 操作說明
 
-	1P 遊玩 : U 發球(或特殊功能) JL左右 , I 跳 , O舉球 , K 殺球
+	1P 遊玩 : U 發球(或特殊功能) J/L 左/右 , I 跳 , O 舉球 , K 殺球
 	1P 選角 : 按I或K選擇角色，確定選擇按O
 
-	2P 遊玩: Q 發球(或特殊功能) AD左右 , W 跳 , E舉球 , S 殺球
+	2P 遊玩 : Q 發球(或特殊功能) A/D 左/右 , W 跳 , E 舉球 , S 殺球
 	2P 選角 : 按W或S選擇角色，確定選擇按E
 
 ### 角色說明
